@@ -1,0 +1,17 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    transactions = [(38177, 34.38), (876, 999.99), (654276, 653678), (54366, 0.99),
+                    (546, 987.65), (876, 3456), (654276, 0.55), (38177, 876.75), (876, 98.7)]
+
+    # create transaction_dict
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7995
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7995">JetBrains
+    Academy</a></html>
+  time: Mon, 29 Jun 2020 10:03:08 UTC
+record: -1

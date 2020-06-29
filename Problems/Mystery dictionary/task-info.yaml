@@ -1,0 +1,16 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    # `random_dict` has been defined
+    # the input is in the variable `word`
+    # write the rest of the code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7994
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7994">JetBrains
+    Academy</a></html>
+  time: Mon, 29 Jun 2020 10:13:21 UTC
+record: -1

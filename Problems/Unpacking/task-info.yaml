@@ -1,0 +1,16 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    def unpack(input_tuple):
+        # your code here
+        return unpacked
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9446
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9446">JetBrains
+    Academy</a></html>
+  time: Mon, 29 Jun 2020 10:28:47 UTC
+record: -1

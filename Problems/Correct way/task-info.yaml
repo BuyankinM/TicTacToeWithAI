@@ -1,0 +1,13 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: 'new_shopping_tuple = ...  # your code here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9441
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9441">JetBrains
+    Academy</a></html>
+  time: Mon, 29 Jun 2020 10:23:20 UTC
+record: -1

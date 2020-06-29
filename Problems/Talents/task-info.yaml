@@ -1,0 +1,16 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    # work with these variables
+    violinists = set(input().split(', '))
+    german_speakers = set(input().split(', '))
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9153
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9153">JetBrains
+    Academy</a></html>
+  time: Mon, 29 Jun 2020 09:48:26 UTC
+record: -1

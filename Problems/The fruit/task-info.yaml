@@ -1,0 +1,15 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    # the tuple "fruit" is already defined
+    position = ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9443
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9443">JetBrains
+    Academy</a></html>
+  time: Mon, 29 Jun 2020 10:21:58 UTC
+record: -1
